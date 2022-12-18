@@ -1,5 +1,3 @@
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
 # Hello Rails Back End
 
 This repo was created as an educational project for building an application by using  two different repos, one for the the backend and another one for the frontend. It was created using mainly Rails.
